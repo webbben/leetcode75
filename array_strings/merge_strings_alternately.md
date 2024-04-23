@@ -2,6 +2,8 @@
 
 [Leetcode link](https://leetcode.com/problems/merge-strings-alternately)
 
+4/23/2024
+
 Difficulty: Easy
 
 ## Description

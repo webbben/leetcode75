@@ -2,6 +2,8 @@
 
 [Leetcode link](https://leetcode.com/problems/greatest-common-divisor-of-strings)
 
+4/23/2024
+
 Difficulty: Easy
 
 ## Description
