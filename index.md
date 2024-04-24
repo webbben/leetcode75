@@ -9,8 +9,8 @@ The main theory is: Ben tries to solve the problem by himself, without any aid o
 -   [Merge Strings Alternately](./array_strings/merge_strings_alternately.md)
 -   [Greatest Common Divisor of Strings](./array_strings/greatest_common_divisor_of_strings.md)
 -   [Kids with the Greatest Number of Candies](./array_strings/kids_with_the_greatest_number_of_candies.md)
--   Can Place Flowers
--   Reverse Vowels of a String
+-   [Can Place Flowers](./array_strings/can_place_flowers.md)
+-   [Reverse Vowels of a String](./array_strings/reverse_vowels_of_a_string.md)
 -   Reverse Words in a String
 -   Product of Array Except Self
 -   Increasing Triplet Subsequence
