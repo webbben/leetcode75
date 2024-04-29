@@ -163,3 +163,5 @@ Memory: 2.29 MB (beats 86% of go users)
 I re-ran the submission a couple times to make sure it wasn't just a dud, but it does seem this new solution may be faster, and also seems to use less memory. So main lesson we learned is:
 
 **don't concatenate immutable strings in big loops** - instead, use something like a bytes buffer that is mutable.
+
+Ben's difficulty rating: 4.5/10. It's not too complicated of a concept, but you have to pay attention to make sure you do it efficiently.

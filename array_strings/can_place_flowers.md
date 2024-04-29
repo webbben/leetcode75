@@ -116,3 +116,5 @@ The only change I made to optimize from the original solution is the early retur
 With this tiny change, runtime and memory improved quite a bit.
 
 Main takeaway: **Don't forget to look for early return chances from loops!**
+
+Ben's difficulty rating: 3/10.

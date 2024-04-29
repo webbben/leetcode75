@@ -185,3 +185,5 @@ I think there might even be room for more optimization the memory, as we could p
 In general, I'm happy with this solution.
 
 Main takeaway: **Don't convert runes to strings unless necessary**.
+
+Ben's difficulty rating: 5.5/10. It took a couple iterations to get the optimal solution, but conceptually it wasn't too hard to figure out.

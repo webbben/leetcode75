@@ -95,3 +95,5 @@ real ideas for where the extra memory usage comes from. My only slight hunch is 
 ## Final Solution, Conclusion
 
 No change from my first implementation. No big take aways here.
+
+Ben's difficulty rating: 1/10. Pretty easy!

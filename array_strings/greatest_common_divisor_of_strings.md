@@ -173,3 +173,5 @@ So it looks like Chat-GPT's optimizations indeed paid off! The solution it gives
 I think this was a problem that appeared easy, and overall wasn't too difficult to get a working solution, but in hindsight my first solution looks pretty bulky and had a lot of room to improve.
 
 My main takeaway: **don't forget to look into built-in `strings` functions.** I checked for divisors in kind of a round-about way initially.
+
+Ben's difficulty rating: 5.9/10. I think this one probably gets a little more into the "medium" level difficulty rather than "easy", but still manageable.
