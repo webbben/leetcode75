@@ -23,7 +23,7 @@ I started this after having not done these type of coding challenges for a while
 -   [Move Zeroes](./two_pointer/move_zeroes.md)
 -   [Is Subsequence](./two_pointer/is_subsequence.md)
 -   [Container with Most Water](./two_pointer/container_with_most_water.md)
--   Max Number of K-Sum Pairs
+-   [Max Number of K-Sum Pairs](./two_pointer/max_number_of_ksum_pairs.md)
 
 ## Sliding Window
 
