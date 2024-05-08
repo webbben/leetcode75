@@ -27,7 +27,7 @@ I started this after having not done these type of coding challenges for a while
 
 ## Sliding Window
 
--   Maximum Average Subarray I
+-   [Maximum Average Subarray I](./sliding_window/maximum_average_subarray_i.md)
 -   Maximum Number of Vowels in a Substring of Given Length
 -   Max Consecutive Ones III
 -   Longest Subarray of 1's After Deleting One Element
