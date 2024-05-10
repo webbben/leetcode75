@@ -28,32 +28,70 @@ I started this after having not done these type of coding challenges for a while
 ## Sliding Window
 
 -   [Maximum Average Subarray I](./sliding_window/maximum_average_subarray_i.md)
--   Maximum Number of Vowels in a Substring of Given Length
--   Max Consecutive Ones III
--   Longest Subarray of 1's After Deleting One Element
+-   [Maximum Number of Vowels in a Substring of Given Length](./sliding_window/maximum_number_of_vowels_in_a_substring_of_given_length.md.md)
+-   [Max Consecutive Ones III](./sliding_window/max_consecutive_ones_iii.md)
+-   [Longest Subarray of 1's After Deleting One Element](./sliding_window/longest_subarray_of_ones_after_deleting_one_element.md)
 
 ## Prefix Sum
 
--   Find the Highest Altitude
--   Find Pivot Index
+-   [Find the Highest Altitude](./prefix_sum/find_the_highest_altitude.md)
+-   [Find Pivot Index](./prefix_sum/find_pivot_index.md)
 
 ## Hash Map / Set
 
+-   Find the Difference of Two Arrays
+-   Unique Number of Occurrences
+-   Determine if Two Strings are Close
+-   Equal Row and Column Pairs
+
 ## Stack
+
+-   Removing Stars from a String
+-   Asteroid Collision
+-   Decode String
 
 ## Queue
 
+-   Number of Recent Calls
+-   Dota2 Senate
+
 ## Linked List
+
+-   Delete the Middle Node of a Linked List
+-   Odd Even Linked List
+-   Reverse Linked List
+-   Maximum Twin Sum of a Linked List
 
 ## Binary Tree - DFS
 
+-   Maximum Depth of Binary Tree
+-   Leaf-Similar Trees
+-   Count Good Nodes in Binary Tree
+-   Path Sum III
+-   Longest ZigZag Path in a Binary Tree
+-   Lowest Common Ancestor of a Binary Tree
+
 ## Binary Tree - BFS
+
+-   Binary Tree Right Side View
+-   Maximum Level Sum of a Binary Tree
 
 ## Binary Search Tree
 
+-   Search in a Binary Search Tree
+-   Delete Node in a BST
+
 ## Graphs - DFS
 
+-   Keys and Rooms
+-   Number of Provinces
+-   Reorder Routes to Make All Paths Lead to the City Zero
+-   Evaluate Division
+
 ## Graphs - BFS
+
+-   Nearest Exit from Entrance in Maze
+-   Rotting Oranges
 
 ## Heap / Priority Queue
 

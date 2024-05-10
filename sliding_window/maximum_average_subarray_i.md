@@ -80,3 +80,5 @@ I think we'll skip the usual song and dance of talking to Chat-GPT since I don't
 (final solution is the same as our first implementation above)
 
 Big takeaways: sliding windows! the sliding window will be useful for problems like this, where we are finding a subarray or a continguous group of elements in a larger element. The main idea is that you can keep track of that "sub-array" / group of elements by only doing operations to add or remove them to the group, rather than repeatedly iterating over all the elements in the group we are maintaining.
+
+Ben's difficulty rating: 3/10. If you aren't used to the idea of sliding windows yet, this might take a bit to figure out, but if you are then it's a piece of cake.
