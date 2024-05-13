@@ -40,7 +40,7 @@ I started this after having not done these type of coding challenges for a while
 ## Hash Map / Set
 
 -   [Find the Difference of Two Arrays](./hash_map_set/find_the_difference_of_two_arrays.md)
--   Unique Number of Occurrences
+-   [Unique Number of Occurrences](./hash_map_set/unique_number_of_occurrences.md)
 -   Determine if Two Strings are Close
 -   Equal Row and Column Pairs
 
