@@ -46,7 +46,7 @@ I started this after having not done these type of coding challenges for a while
 
 ## Stack
 
--   Removing Stars from a String
+-   [Removing Stars from a String](./stack/removing_stars_from_a_string.md)
 -   Asteroid Collision
 -   Decode String
 
