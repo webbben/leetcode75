@@ -47,7 +47,7 @@ I started this after having not done these type of coding challenges for a while
 ## Stack
 
 -   [Removing Stars from a String](./stack/removing_stars_from_a_string.md)
--   Asteroid Collision
+-   [Asteroid Collision](./stack/asteroid_collision.md)
 -   Decode String
 
 ## Queue
