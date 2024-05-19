@@ -52,7 +52,7 @@ I started this after having not done these type of coding challenges for a while
 
 ## Queue
 
--   Number of Recent Calls
+-   [Number of Recent Calls](./queue/number_of_recent_calls.md)
 -   Dota2 Senate
 
 ## Linked List
