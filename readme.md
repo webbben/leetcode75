@@ -57,7 +57,7 @@ I started this after having not done these type of coding challenges for a while
 
 ## Linked List
 
--   Delete the Middle Node of a Linked List
+-   [Delete the Middle Node of a Linked List](./linked_list/delete_the_middle_node_of_a_linked_list.md)
 -   Odd Even Linked List
 -   Reverse Linked List
 -   Maximum Twin Sum of a Linked List
